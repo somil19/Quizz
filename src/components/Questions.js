@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Questions({ Question, answer, dispatch, points }) {
   return (
-    <div>
+    <div className="ques_Opt">
       <div className="ques">
         {" "}
         <p>{Question.question}</p>

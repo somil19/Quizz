@@ -1,0 +1,701 @@
+{
+  "subjects": [
+    {
+      "name": "HTML",
+      "questions": [
+        {
+          "question": "What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Makeup Language"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the <img> tag do?",
+          "options": [
+            "Defines a paragraph",
+            "Defines an image",
+            "Defines a hyperlink",
+            "Defines a heading"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which tag is used to create a hyperlink?",
+          "options": ["<a>", "<link>", "<href>", "<hyperlink>"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the <br> tag do?",
+          "options": [
+            "Defines a break in the text",
+            "Defines a bold text",
+            "Defines a new paragraph",
+            "Defines a block of code"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the <h1> to <h6> tags represent in HTML?",
+          "options": ["Paragraphs", "Headings", "Links", "Images"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which attribute is used to provide an image with a text alternative for screen readers?",
+          "options": ["alt", "src", "title", "href"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What is the correct HTML element for inserting a line break?",
+          "options": ["<br>", "<lb>", "<break>", "<newline>"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which HTML element is used to define important text?",
+          "options": ["<i>", "<strong>", "<b>", "<em>"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "In HTML, which tag is used to define an unordered list?",
+          "options": ["<ol>", "<li>", "<ul>", "<dl>"],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "Which HTML attribute specifies an alternate text for an image if the image cannot be displayed?",
+          "options": ["src", "alt", "href", "title"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which HTML element defines the title of a document?",
+          "options": ["<title>", "<header>", "<heading>", "<h1>"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'target' attribute do in an anchor (<a>) tag?",
+          "options": [
+            "Defines the target of the link",
+            "Opens the link in a new tab",
+            "Defines the type of the link",
+            "Specifies the file to link"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which HTML element is used to display a scalar measurement within a range?",
+          "options": ["<meter>", "<scale>", "<range>", "<unit>"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the <aside> element represent in HTML5?",
+          "options": [
+            "A section of the document with tangentially related content",
+            "A section of the document with primary content",
+            "A section of the document with navigation links",
+            "A section of the document with footer content"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which HTML element is used to define a table row?",
+          "options": ["<tr>", "<table-row>", "<th>", "<td>"],
+          "correctOption": 0,
+          "points": 10
+        }
+      ]
+    },
+    {
+      "name": "CSS",
+      "questions": [
+        {
+          "question": "Which property is used to change the background color in CSS?",
+          "options": ["background-color", "color", "bgcolor", "bg-color"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does CSS stand for?",
+          "options": [
+            "Cascading Style Sheets",
+            "Creative Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style Sheets"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to control the spacing between elements in CSS?",
+          "options": ["margin", "padding", "border", "spacing"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does the 'font-family' property in CSS define?",
+          "options": [
+            "The size of the font",
+            "The color of the font",
+            "The style of the font",
+            "The typeface of the font"
+          ],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to make text italic in CSS?",
+          "options": [
+            "text-style: italic;",
+            "font-style: italic;",
+            "italic: true;",
+            "font-italic: true;"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to center-align text horizontally in CSS?",
+          "options": [
+            "text-align",
+            "align",
+            "center-align",
+            "horizontal-align"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'display: none;' property do in CSS?",
+          "options": [
+            "Hides an element",
+            "Shows an element",
+            "Floats an element",
+            "Centers an element"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which CSS property is used to add rounded corners to an element?",
+          "options": [
+            "border-radius",
+            "corner-radius",
+            "rounded-corners",
+            "corner-style"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'position: absolute;' property do in CSS?",
+          "options": [
+            "Positions an element relative to its parent",
+            "Positions an element absolutely within its containing block",
+            "Positions an element relative to the viewport",
+            "Positions an element relative to its normal position"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to change the width of an element in CSS?",
+          "options": ["width", "size", "length", "width-size"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'float' property do in CSS?",
+          "options": [
+            "Moves an element to the left or right, allowing other elements to wrap around it",
+            "Moves an element to the top or bottom of its containing element",
+            "Makes an element invisible",
+            "None of the above"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to create a shadow effect in CSS?",
+          "options": ["shadow", "box-shadow", "text-shadow", "element-shadow"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does the 'z-index' property do in CSS?",
+          "options": [
+            "Controls the vertical stacking order of elements that overlap",
+            "Controls the horizontal stacking order of elements",
+            "Controls the depth of an element",
+            "Controls the opacity of an element"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to change the color of the text in CSS?",
+          "options": ["text-color", "color", "font-color", "text-style"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does the 'box-sizing' property do in CSS?",
+          "options": [
+            "Defines whether an element should float to the left or right",
+            "Defines how the width and height of an element are calculated",
+            "Defines the style of the border around an element",
+            "Defines the spacing between elements"
+          ],
+          "correctOption": 1,
+          "points": 10
+        }
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "questions": [
+        {
+          "question": "What does JavaScript primarily do?",
+          "options": [
+            "Define the structure of a webpage",
+            "Style the webpage",
+            "Add interactivity to a webpage",
+            "Define the layout of a webpage"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "Which of the following is not a JavaScript data type?",
+          "options": ["String", "Number", "Boolean", "Character"],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "What does the '===' operator do in JavaScript?",
+          "options": [
+            "Assigns a value",
+            "Checks for equality in both value and type",
+            "Checks for equality in value only",
+            "None of the above"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does the 'typeof' operator do in JavaScript?",
+          "options": [
+            "Returns the type of a variable",
+            "Defines a variable",
+            "Checks for equality in both value and type",
+            "Checks for equality in value only"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which function is used to print a value in the console in JavaScript?",
+          "options": ["console.log()", "print()", "log()", "echo()"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'typeof' operator return when used on an array in JavaScript?",
+          "options": [
+            "object",
+            "array",
+            "function",
+            "typeof returns an error for arrays"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which keyword is used to declare variables in JavaScript?",
+          "options": ["var", "let", "const", "var, let, and const"],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "What is the purpose of the 'return' statement in a JavaScript function?",
+          "options": [
+            "To declare a variable",
+            "To stop the execution of a function and return a value",
+            "To log a message to the console",
+            "To define a loop"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which built-in method is used to sort elements in an array in JavaScript?",
+          "options": ["sort()", "order()", "arrange()", "none of the above"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'parseInt()' function do in JavaScript?",
+          "options": [
+            "Parses a string and returns an integer",
+            "Converts a string to lowercase",
+            "Returns the length of a string",
+            "None of the above"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What is the purpose of the 'this' keyword in JavaScript?",
+          "options": [
+            "To refer to the current function",
+            "To refer to the global object",
+            "To refer to the current object",
+            "To create a new object"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "Which JavaScript method is used to remove the last element from an array and return that element?",
+          "options": ["pop()", "shift()", "splice()", "slice()"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'isNaN()' function in JavaScript do?",
+          "options": [
+            "Returns true if the argument is not a number",
+            "Returns false if the argument is a number",
+            "Returns true if the argument is a number",
+            "Returns false if the argument is not a number"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'forEach()' method do in JavaScript?",
+          "options": [
+            "Executes a provided function once for each array element",
+            "Concatenates two arrays",
+            "Filters elements in an array based on a function",
+            "Sorts elements in an array"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'typeof' operator return when used on a function in JavaScript?",
+          "options": [
+            "function",
+            "object",
+            "undefined",
+            "typeof returns an error for functions"
+          ],
+          "correctOption": 0,
+          "points": 10
+        }
+      ]
+    },
+    {
+      "name": "Mixed",
+      "questions": [
+        {
+          "question": "Which company invented React?",
+          "options": ["Google", "Apple", "Netflix", "Facebook"],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "What is the virtual DOM in React?",
+          "options": [
+            "A lightweight version of the DOM",
+            "An in-memory representation of the actual DOM",
+            "A separate copy of the DOM",
+            "A simplified version of HTML"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does JSX stand for?",
+          "options": [
+            "JavaScript XML",
+            "JavaScript Extensions",
+            "JavaScript Execute",
+            "Java Standard Extensions"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does JavaScript primarily do?",
+          "options": [
+            "Define the structure of a webpage",
+            "Style the webpage",
+            "Add interactivity to a webpage",
+            "Define the layout of a webpage"
+          ],
+          "correctOption": 2,
+          "points": 10,
+          "topic": "JavaScript"
+        },
+        {
+          "question": "Which of the following is not a JavaScript data type?",
+          "options": ["String", "Number", "Boolean", "Character"],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "What does the '===' operator do in JavaScript?",
+          "options": [
+            "Assigns a value",
+            "Checks for equality in both value and type",
+            "Checks for equality in value only",
+            "None of the above"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does HTML stand for?",
+          "options": [
+            "Hyper Text Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Makeup Language"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the <img> tag do?",
+          "options": [
+            "Defines a paragraph",
+            "Defines an image",
+            "Defines a hyperlink",
+            "Defines a heading"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which tag is used to create a hyperlink?",
+          "options": ["<a>", "<link>", "<href>", "<hyperlink>"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to change the background color in CSS?",
+          "options": ["background-color", "color", "bgcolor", "bg-color"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does CSS stand for?",
+          "options": [
+            "Cascading Style Sheets",
+            "Creative Style Sheets",
+            "Computer Style Sheets",
+            "Colorful Style Sheets"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "Which property is used to control the spacing between elements in CSS?",
+          "options": ["margin", "padding", "border", "spacing"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "What does 'display: none;' do in CSS?",
+          "options": [
+            "Hides an element",
+            "Shows an element",
+            "Floats an element",
+            "Centers an element"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does the 'let' keyword do in JavaScript?",
+          "options": [
+            "Declares a variable with block scope",
+            "Declares a variable with global scope",
+            "Declares a constant",
+            "Declares a function"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What does 'useState' hook do in React?",
+          "options": [
+            "Manages state in a functional component",
+            "Defines state in a class component",
+            "Updates the DOM",
+            "Creates a new component"
+          ],
+          "correctOption": 0,
+          "points": 10
+        }
+      ]
+    },
+    {
+      "name": "React",
+      "questions": [
+        {
+          "question": "Which is the most popular JavaScript framework?",
+          "options": ["Angular", "React", "Svelte", "Vue"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which company invented React?",
+          "options": ["Google", "Apple", "Netflix", "Facebook"],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "What's the fundamental building block of React apps?",
+          "options": ["Components", "Blocks", "Elements", "Effects"],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "What's the name of the syntax we use to describe the UI in React components?",
+          "options": ["FBJ", "Babel", "JSX", "ES2015"],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "How does data flow naturally in React apps?",
+          "options": [
+            "From parents to children",
+            "From children to parents",
+            "Both ways",
+            "The developers decides"
+          ],
+          "correctOption": 0,
+          "points": 10
+        },
+        {
+          "question": "How to pass data into a child component?",
+          "options": ["State", "Props", "PropTypes", "Parameters"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "When to use derived state?",
+          "options": [
+            "Whenever the state should not trigger a re-render",
+            "Whenever the state can be synchronized with an effect",
+            "Whenever the state should be accessible to all components",
+            "Whenever the state can be computed from another state variable"
+          ],
+          "correctOption": 3,
+          "points": 30
+        },
+        {
+          "question": "What triggers a UI re-render in React?",
+          "options": [
+            "Running an effect",
+            "Passing props",
+            "Updating state",
+            "Adding event listeners to DOM elements"
+          ],
+          "correctOption": 2,
+          "points": 20
+        },
+        {
+          "question": "When do we directly \"touch\" the DOM in React?",
+          "options": [
+            "When we need to listen to an event",
+            "When we need to change the UI",
+            "When we need to add styles",
+            "Almost never"
+          ],
+          "correctOption": 3,
+          "points": 20
+        },
+        {
+          "question": "In what situation do we use a callback to update state?",
+          "options": [
+            "When updating the state will be slow",
+            "When the updated state is very data-intensive",
+            "When the state update should happen faster",
+            "When the new state depends on the previous state"
+          ],
+          "correctOption": 3,
+          "points": 30
+        },
+        {
+          "question": "If we pass a function to useState, when will that function be called?",
+          "options": [
+            "On each re-render",
+            "Each time we update the state",
+            "Only on the initial render",
+            "The first time we update the state"
+          ],
+          "correctOption": 2,
+          "points": 30
+        },
+
+        {
+          "question": "Which hook to use for an API request on the component's initial render?",
+          "options": ["useState", "useEffect", "useRef", "useReducer"],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "Which variables should go into the useEffect dependency array?",
+          "options": [
+            "Usually none",
+            "All our state variables",
+            "All state and props referenced in the effect",
+            "All variables needed for clean up"
+          ],
+          "correctOption": 2,
+          "points": 30
+        },
+        {
+          "question": "An effect will always run on the initial render.",
+          "options": [
+            "True",
+            "It depends on the dependency array",
+            "False",
+            "In depends on the code in the effect"
+          ],
+          "correctOption": 0,
+          "points": 30
+        },
+        {
+          "question": "When will an effect run if it doesn't have a dependency array?",
+          "options": [
+            "Only when the component mounts",
+            "Only when the component unmounts",
+            "The first time the component re-renders",
+            "Each time the component is re-rendered"
+          ],
+          "correctOption": 3,
+          "points": 20
+        }
+      ]
+    }
+  ]
+}
